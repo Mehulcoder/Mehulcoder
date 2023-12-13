@@ -29,6 +29,7 @@ With a background in tech from IIT Guwahati and crafting code at Amazon as an SD
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mehul99)
 [![Medium](https://img.shields.io/badge/-Medium-000000?style=flat-square&logo=medium)](https://medium.com/@mehulchaturvedi)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mehul355180@gmail.com)
+![](https://komarev.com/ghpvc/?username=Mehucoder)
 - Share a conversation about tech, life, or your latest read with me.
 - When not in the virtual world, I might be perfecting my photography or hitting the gym — let's chat about that too!
 
