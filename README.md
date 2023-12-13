@@ -8,10 +8,10 @@ With a background in tech from IIT Guwahati and crafting code at Amazon as an SD
 
 - :hammer_and_wrench: Improving and scaling software at Amazon, where complexity meets creativity.
 - :mortar_board: An endless curiosity about cognitive science, learning methodologies, and productivity.
-- :man-lifting-weights: Beyond the screen, I'm dedicated to fitness, nutrition, and decoding the science behind it.
+- 💪 Beyond the screen, I'm dedicated to fitness, nutrition, and decoding the science behind it.
 - :coffee: A cup of coffee is my elixir for focus and a partner in coding marathons.
-- :camera_with_flash: Through the lens, I bring out the world's hidden rhythms, enhanced by my expertise in Adobe Lightroom.
-- :blue_book: A voracious reader, I immerse myself in the rules of art, philosophy, and the digital universe.
+- 📸 Through the lens, I bring out the world's hidden rhythms, enhanced by my expertise in Adobe Lightroom.
+- :blue_book: A voracious reader, I immerse myself in the rules of art, philosophy, and the digital universe. :man
 
 ### Let's Connect
 
@@ -27,8 +27,8 @@ With a background in tech from IIT Guwahati and crafting code at Amazon as an SD
 ### Find me on other platforms :globe_with_meridians:
 
 - :link: [LinkedIn](https://www.linkedin.com/in/mehul99)
-- ⌨️: [Codeforces](https://codeforces.com/profile/mehulcoder)
-- ⌨️: [Leetcode](https://leetcode.com/mehul170104047/)
+- ⌨️ [Codeforces](https://codeforces.com/profile/mehulcoder)
+- ⌨️ [Leetcode](https://leetcode.com/mehul170104047/)
 - :mailbox_with_mail: [Email](mailto:mehul355180@gmail.com)
 
 I'm a firm believer in the power of collaboration and the open-source ethos. Ready to join forces and innovate? Let's get coding!
