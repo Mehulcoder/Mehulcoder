@@ -4,6 +4,18 @@
 
 With a background in tech from IIT Guwahati and crafting code at Amazon as an SDE II, I'm all about making an impact through technology. I blend my love for algorithms and system design with a zest for life-long learning and fitness.
 
+### Technologies I work with:
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
+### Always learning:
+:seedling: I'm currently honing my skills in high-level system design, deepening my understanding of architecture and scalability.
+
 ### What keeps me buzzing:
 
 - :hammer_and_wrench: Improving and scaling software at Amazon, where complexity meets creativity.
@@ -14,9 +26,10 @@ With a background in tech from IIT Guwahati and crafting code at Amazon as an SD
 - :blue_book: A voracious reader, I immerse myself in the rules of art, philosophy, and the digital universe. :man
 
 ### Let's Connect
-
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mehul99)
+[![Medium](https://img.shields.io/badge/-Medium-000000?style=flat-square&logo=medium)](https://medium.com/@mehulchaturvedi)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mehul355180@gmail.com)
 - Share a conversation about tech, life, or your latest read with me.
-- Dive into my Medium articles for musings on tech and beyond [Medium](https://medium.com/@mehulchaturvedi).
 - When not in the virtual world, I might be perfecting my photography or hitting the gym — let's chat about that too!
 
 ### Stats and Strokes of Genius
@@ -31,4 +44,3 @@ With a background in tech from IIT Guwahati and crafting code at Amazon as an SD
 - ⌨️ [Leetcode](https://leetcode.com/mehul170104047/)
 - :mailbox_with_mail: [Email](mailto:mehul355180@gmail.com)
 
-I'm a firm believer in the power of collaboration and the open-source ethos. Ready to join forces and innovate? Let's get coding!
