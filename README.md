@@ -33,11 +33,6 @@ With a background in tech from IIT Guwahati and crafting code at Amazon as an SD
 - Share a conversation about tech, life, or your latest read with me.
 - When not in the virtual world, I might be perfecting my photography or hitting the gym — let's chat about that too!
 
-### Stats and Strokes of Genius
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Mehulcoder&show_icons=true)
-
-
 ### Find me on other platforms :globe_with_meridians:
 
 - :link: [LinkedIn](https://www.linkedin.com/in/mehul99)
