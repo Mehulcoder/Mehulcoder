@@ -23,7 +23,7 @@ With a background in tech from IIT Guwahati and crafting code at Amazon as an SD
 - 💪 Beyond the screen, I'm dedicated to fitness, nutrition, and decoding the science behind it.
 - :coffee: A cup of coffee is my elixir for focus and a partner in coding marathons.
 - 📸 Through the lens, I bring out the world's hidden rhythms, enhanced by my expertise in Adobe Lightroom and Photoshop.
-- :blue_book: Immersing myself in the rules of art, philosophy, and the human brain. :man
+- :blue_book: Immersing myself in the rules of art, philosophy, and the human brain.
 
 ### Let's Connect
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mehul99)
