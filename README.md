@@ -2,7 +2,7 @@
 
 ## Your friendly neighborhood Software Developer
 
-With a background in tech from IIT Guwahati and crafting code at Amazon as an SDE II, I'm all about making an impact through technology. I blend my love for algorithms and system design with a zest for life-long learning and fitness.
+With a background in tech from IIT Guwahati and working at Amazon as an SDE II, I'm all about making an impact through technology. I blend my love for algorithms and system design with a zest for life-long learning and fitness.
 
 ### Technologies I work with:
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws)
